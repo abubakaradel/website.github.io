@@ -1,0 +1,140 @@
+*{
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+}
+.navbar{
+    background-color: rgb(0, 110, 255);
+    padding: 10px;
+    top: 0;
+    font-size: 20px;
+    size: 20px;
+}
+.navbar a{
+    margin-left: 10px;
+}
+
+a{
+    color:rgb(254, 255, 249);
+    text-decoration: none;
+    margin-left: 10px;
+}
+body{
+    margin: 0;
+    top: 0;
+}
+.float-right{
+    float: right;
+}
+.btn{
+    padding: 5px 10px 5px 10px;
+    color: antiquewhite;
+    border-radius: 16px;
+}
+.btn-primary{
+    background-color: rgb(24, 199, 77);
+}
+.btn-warning{
+    background-color: rgb(62, 62, 194);
+}
+.mt-1px{
+    margin-top: 1px;
+}
+.row{
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-2{
+    width: 50%;
+}
+.col-3{
+    width: 33%;
+}
+.col-4{
+    width: 25%;
+}
+.mt-10px{
+    margin: 10px;
+}
+.card{
+    border: 1px solid rgb(188, 182, 182);
+    padding: 17px;
+    margin: 10px;
+    align-items: center;
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+.card img{
+    width: 230px;
+    height: 229px;
+
+
+}
+.card-p{
+    border: 1px solid rgb(188, 182, 182);
+    padding: 20px;
+    margin: 10px;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+.card a{
+    color: rgb(103, 120, 199);
+
+
+}
+.card p{
+    color: rgb(176, 178, 180);
+}
+.div a{
+    font-family: castellar;
+    font-size: 10px;
+}
+.card-p p{
+    color: rgb(176, 178, 180);
+}
+.card-p a{
+    color: rgb(103, 120, 199);
+
+}
+.text-primary{
+    color: rgb(85, 85, 222);
+}
+.footer{
+    background-color: rgb(0, 0, 0);
+    padding: 8px;
+}
+.text-white{
+    color: azure;
+}
+.p-5{
+    padding:30px;
+    color: aliceblue;
+    background-color: rgb(125, 157, 184);
+}
+.p-4{
+    padding: 25px;
+    color: rgb(138, 147, 155);
+}
+.text-justify{
+    text-align: justify;
+}
+.fcontainer{
+    display: flex;
+}
+.text-right{
+    text-align: right;
+}
+.mr-margin{
+    margin-left: 40px;
+}
+.mrs-margin{
+    margin-right: 90px;
+}
+.p-1{
+    padding: 10px;
+}
